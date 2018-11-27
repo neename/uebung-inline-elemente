@@ -28,3 +28,24 @@ p{
 	margin: 0 auto;
 	width:  600px;
 }
+
+.besterspan{
+	background: yellow;
+	height: 20px;
+	width: 100px;
+	display: inline-block;
+}
+
+strong{
+	font-weight: normal;
+}
+
+div div{
+	outline: 1px solid red;
+	display: inline-block;
+}
+
+p img {
+float: left;
+margin: 0 20px;
+	}
